@@ -1,2 +1,2 @@
 # Dwarf_World
-Issues bugs and roadmap of Dwarf World.
+Public issue tracker for Dwarf World.
